@@ -1,1 +1,1 @@
-jMediaConverter is a simple ORM tool.
+jMediaConverter is a simple java ORM tool.
