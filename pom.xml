@@ -4,5 +4,5 @@
   <artifactId>jMediaConverter</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>jMediaConverter</name>
-  <description>jMediaConverter</description>
+  <description>jMediaConverter - simple ORM tool</description>
 </project>
